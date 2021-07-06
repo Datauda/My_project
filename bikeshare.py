@@ -405,6 +405,7 @@ def main():
 
         restart = input('\n    Would you like to restart? (y or n):  ')
         if restart.lower() != 'y':
+            print("Thank You, Bye!")
             break
 
 
